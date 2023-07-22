@@ -22,31 +22,31 @@ let products = [
     },
     {
         id: 2,
-        name: 'PRODUCT NAME 2',
+        name: 'Quality Bicycle',
         image: 'bicycle2.jpg',
         price: 120000
     },
     {
         id: 3,
-        name: 'PRODUCT NAME 3',
+        name: 'Bicycle 3',
         image: '44.jpg',
         price: 220000
     },
     {
         id: 4,
-        name: 'PRODUCT NAME 4',
+        name: 'Bicycle 4',
         image: 'bicycle3.jpg',
         price: 123000
     },
     {
         id: 5,
-        name: 'PRODUCT NAME 5',
+        name: 'Bicycle 5',
         image: '33.jpg',
         price: 320000
     },
     {
         id: 6,
-        name: 'PRODUCT NAME 6',
+        name: 'Bicycle 6',
         image: '22.jpg',
         price: 120000
     },
